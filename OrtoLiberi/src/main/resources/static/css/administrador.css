@@ -1,0 +1,177 @@
+body{
+    header{
+        nav{
+            background-color: #fc924c;
+            div{
+                a{
+                    img{
+                        width: 10%;
+                    }
+                }
+            }
+        }
+    }
+    
+    #title-enroll{
+		padding-top: 15%;
+		padding-bottom: 5%;
+		background-image: url('../img/mainBackground.png');
+        .jumbotrol{
+            .container-fluid{
+                color: #fc924c;
+                -webkit-text-stroke-width: 1px;
+                -webkit-text-stroke-color: black;
+                h1{
+                    text-transform: uppercase;
+                    font-family: 'MedievalSharp';
+                    text-align: center;
+                    font-size: 400%
+                }
+                p{
+                    text-align: center;
+                    color: #9ad4b3;
+                    font-size: x-large;
+                    font-weight: bolder;
+                    -webkit-text-stroke-width: 1px;
+                    a{
+                        -webkit-text-stroke-width: 0px;
+                    }
+                }
+            }
+        }
+    }
+
+    .container{
+        .row{
+            #izquierda-admin{
+                background-color: #fffee2;
+                #boton{
+                    text-align: center;
+                }
+            }
+            #centro-admin{
+                h4{
+                    text-align: center;
+                }
+                #boton{
+                    text-align: center;
+                }
+                p{
+                    font-size: large;
+                    img{
+                        margin-left: 9%;
+                    }
+                }
+            }
+            #derecha-admin{
+                background-color: #eafee2;
+                #boton{
+                    text-align: center;
+                }
+                a{
+                    display: inline-block;
+                    margin: 3%;
+                    img{
+                        display: block;
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+
+    .accordion{
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-bottom: 2%;
+        #boton{
+            a{
+                background-color: #fffee2;
+            }
+        }
+    }
+    
+    #footer{
+        background-color: darkcyan;
+    }
+
+    #modalPerfil{
+        div{
+            div{
+                background-color: #37b5ff;
+                .modal-body{
+                    form{
+                        button{
+                            background-color: #fffee2;
+                            margin-bottom: 1%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    #modalConstruccion{
+        div{
+            div{
+                background-color: #37b5ff;
+                .modal-body{
+                    form{
+                        button{
+                            background-color: #fffee2;
+                            margin-bottom: 1%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    #modalAdministracion{
+        div{
+            div{
+                background-color: #37b5ff;
+                .modal-body{
+                    form{
+                        button{
+                            background-color: #fffee2;
+                            margin-bottom: 1%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    #modalNuevoProducto{
+        div{
+            div{
+                background-color: #37b5ff;
+                .modal-body{
+                    form{
+                        button{
+                            background-color: #fffee2;
+                            margin-bottom: 1%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    #modalConfirmacionNuevoProducto{
+        div{
+            div{
+                background-color: #37b5ff;
+                .modal-body{
+                    form{
+                        button{
+                            background-color: #fffee2;
+                            margin-bottom: 1%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
