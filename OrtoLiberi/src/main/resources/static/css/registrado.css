@@ -1,0 +1,178 @@
+body{
+    header{
+        nav{
+            background-color: #9ad4b3;
+            div{
+                a{
+                    img{
+                        width: 10%;
+                    }
+                }
+            }
+        }
+    }
+
+    #title-enroll{
+        padding-top: 15%;
+        padding-bottom: 5%;
+        background-image: url('../img/mainBackground.png');
+        .jumbotrol{
+            .container-fluid{
+                color: #fc924c;
+                -webkit-text-stroke-width: 1px;
+                -webkit-text-stroke-color: black;
+                h1{
+                    text-transform: uppercase;
+                    font-family: 'MedievalSharp';
+                    text-align: center;
+                }
+                p{
+                    text-align: center;
+                }
+            }
+        }
+    }
+
+    .container{
+        .row{
+            #izquierda-regis{
+                background-color: #fffee2;
+                #boton{
+                    text-align: center;
+                }
+            }
+            #centro-regis{
+                h4{
+                    text-align: center;
+                }
+                #boton{
+                    text-align: center;
+                }
+                p{
+                    font-size: large;
+                    img{
+                        margin-left: 9%;
+                    }
+                }
+            }
+            #derecha-regis{
+                background-color: #eafee2;
+                #boton{
+                    text-align: center;
+                }
+                a{
+                    display: inline-block;
+                    margin: 3%;
+                    img{
+                        display: block;
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+    
+    #personal-data{
+        .container{
+            p{
+                a{
+                    background-color: #fc924c;
+                }
+            }
+        }
+    }
+
+    #children{
+        .container{
+            p{
+                a{
+                    background-color: #fc924c;
+                }
+            }
+        }
+    }
+
+    #footer{
+        background-color: darkcyan;
+    }
+
+    #modalConstruccion{
+        div{
+            div{
+                background-color: #fc924c;
+                .modal-body{
+                    form{
+                        button{
+                            background-color: #fffee2;
+                            margin-bottom: 1%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    #modalEdicion{
+        div{
+            div{
+                background-color: #fc924c;
+                .modal-body{
+                    form{
+                        button{
+                            background-color: #fffee2;
+                            margin-bottom: 1%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    #modalNuevoMenor{
+        div{
+            div{
+                background-color: #fc924c;
+                .modal-body{
+                    form{
+                        button{
+                            background-color: #fffee2;
+                            margin-bottom: 1%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    #modalConfirmacionEdicion{
+        div{
+            div{
+                background-color:#fc924c;
+                .modal-body{
+                    form{
+                        button{
+                            background-color: #fffee2;
+                            margin-bottom: 1%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    #modalConfirmacionNuevoMenor{
+        div{
+            div{
+                background-color: #fc924c;
+                .modal-body{
+                    form{
+                        button{
+                            background-color: #fffee2;
+                            margin-bottom: 1%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
